@@ -5,12 +5,19 @@
 </head>
 <body>
 
-<h1>h1 First Steps</h1>
-<p>Read both of the articles. For me there was alot of new information that I didn't know before. 
+<h1>TASK x)</h1>
+<p>Read both of the articles. For me there was alot of new information that I didn't know before. </p>
+<h1>TASK a)</h1>
+<p>I tried to do these Bandit oh-five levels 0-4. Webpage didn't work at all and I tried several times to get it work but I can't figure how to get it working.</p>
 
-TASK b)
-I downloaded two times this Debian Bullseye. First time I forgot to document all of it so I did it again. First time when I downloaded this I didn't have a problem untill I made my account and forgot the password and this is one of the reasons I downloaded this second time.  Downloading it was easy until I needed insert a debian ISO image as a virtual CDROM. I have downloaded it but it didn't let me add it to Storage -> Empty -> Attributes -> Optical drive is not working at all. Couldn't figure out what was the issue in this... 
+<h1>TASK b)</h1>
+<p>I downloaded two times this Debian Bullseye. First time I forgot to document all of it so I did it again. First time when I downloaded this I didn't have a problem untill I made my account and forgot the password and this is one of the reasons I downloaded this second time.  Downloading it was easy until I needed insert a debian ISO image as a virtual CDROM. I have downloaded it but it didn't let me add it to Storage -> Empty -> Attributes -> Optical drive is not working at all. Couldn't figure out what was the issue in this... 
 </p>
 
+<h1>TASK c)</h1>
+<p>Couldn't do this because I can't get the Debian Bullseye working. </p>
+
+<h1>TASK d)</h1>
+<p>Couldn't do this because I can't get the Debian Bullseye working. </p> 
 </body>
 </html>
